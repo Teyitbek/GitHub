@@ -1,0 +1,1 @@
+<php_check_syntax class=""></php_check_syntax>
